@@ -1,6 +1,6 @@
 ## CI/CD Hooks Now in Assembla
 
-Assembla users can now seamlessly link their Travis CI account with Assembla. In this tutorial, I’ll be walking you through it A-Z. 
+Assembla users can now seamlessly link their Travis CI account with Assembla and view and manage their builds in the Assembla user interface. In this tutorial, I’ll be walking you through it A-Z. 
 
 ## Let's get started
 
@@ -51,4 +51,12 @@ Say if you start another build in Travis, and want to see the verbosity of the o
 ![Screenshot 2023-04-10 at 8 16 08 AM](https://user-images.githubusercontent.com/20936398/230941434-831f6f4e-f925-4b83-ad00-c6bb512588b0.png)
 
 >Travis GUI
+
+## Conclusion 
+
+There you go, now you know how you can manage and access your Travis CI builds directly through Assembla using the CI/CD hooks with just simply using an API key.
+
+As always if you have any questions, any questions at all, please email me at [montana@travis-ci.org](mailto:montana@travis-ci.org).
+
+Happy building and Assemblaing! 
 
