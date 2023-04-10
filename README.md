@@ -40,7 +40,15 @@ Now you’ll want to sign into Travis by going to [app.travis-ci.com], and click
 
 >Sign in page
 
+Once you’re signed in via Assembla, you can now try starting your build! It should look like this when it’s starting in the Builds tab once your build has passed:
 
+![Screenshot 2023-04-10 at 8 47 57 AM](https://user-images.githubusercontent.com/20936398/230941209-bd28ed76-8cde-46b5-b4a8-0b736a24ebc6.png)
 
+>Passing build status in Assembla
 
+Say if you start another build in Travis, and want to see the verbosity of the outputs, etc, you can certainly do that by going back to the Travis CI GUI:
+
+![Screenshot 2023-04-10 at 8 16 08 AM](https://user-images.githubusercontent.com/20936398/230941434-831f6f4e-f925-4b83-ad00-c6bb512588b0.png)
+
+>Travis GUI
 
