@@ -28,7 +28,7 @@ Once you click on the “Builds” tab, you should see something similar to this
 
 ## API Token Creation 
 
-Press enable, you’ll want to generate your API token through the CLI using the command `tavis token –-pro` (make sure you have the Travis gem installed.)
+Press enable, you’ll want to generate your API token through the CLI using the command `travis token –-pro` (make sure you have the Travis gem installed.)
 
 <img width="373" alt="Screenshot 2023-04-10 at 8 56 36 AM" src="https://user-images.githubusercontent.com/20936398/230940816-80792609-6d38-431a-a09a-aefd6e7cf7a2.png">
 
