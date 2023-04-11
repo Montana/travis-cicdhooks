@@ -1,5 +1,4 @@
-![CICD Webooks (1)](https://user-images.githubusercontent.com/20936398/230953538-305cc363-74b7-4093-bfd2-4b43a7d9b9ff.png)
-
+![Uploading inDesign_WH_ASSEMBLAdd1c3d3e2e4ec302ea0a4c1dd26e126dd86af0f5249656c8b4473a862c5ecf74.png…]()
 
 ## CI/CD Hooks Now in Assembla
 
