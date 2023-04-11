@@ -2,7 +2,7 @@
 
 ## CI/CD Hooks Now in Assembla
 
-With Assembla's latest addition of CI/CD Hooks this definitely brings an exciting new feature to the Repository section of your Project Spaces, if you see "CI/CD" then you're probably thinking "a Builds tab" and you would have thought correctly. This function keeps you in the loop on the Travis CI build status and this all happens within the Assembla application saving you time from going back and forth. As far as the build itself, it still happens in Travis CI and most of the verbose output of "Passed" or "Failed" will be in Travis CI app. 
+With Assembla's latest addition of CI/CD Hooks this definitely brings an exciting new feature to the Repository section of your Project Spaces, if you're reading this and noticed "CI/CD Webhooks" then you're probably already thinking "hopefully a Builds tab" and if you are thinking that, you're correct! This function keeps you in the loop on the Travis CI build status and this all happens within the Assembla application saving you time from going back and forth. As far as the build itself, it still happens in Travis CI and most of the verbose output of "Passed" or "Failed" will be in Travis CI app. 
 
 If your repository hasn't setup Travis CI yet, (you should search for your repository and check), you'll see a setup option, and this will require your Travis API key. Below I'll show you how to get started, create a access token, and finally how to view your Travis CI builds in Assembla.
 
