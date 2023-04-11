@@ -2,7 +2,9 @@
 
 ## CI/CD Hooks Now in Assembla
 
-Assembla users can now seamlessly link their Travis CI account with Assembla and view and manage their builds in the Assembla user interface. In this tutorial, I’ll be walking you through it A-Z. 
+With the introduction of the CI/CD Hooks in Assembla, you might now see a "Builds" tab within the Assembla Project Spaces Repository section. This function is to keep you informed on your build status without having to leave the Assembla application. The build itself still happens in Travis CI and verbose output of "Passed" or "Failed" will be next to the build. 
+
+If you're repository hasn't setup Travis CI yet, you'll see a setup option, and this will require your Travis API key. Below I'll show you how to get started, create a access token, and finally to view your Travis CI builds in Assembla. 
 
 ## Let's get started
 
