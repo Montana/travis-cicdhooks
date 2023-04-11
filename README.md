@@ -1,4 +1,4 @@
-![Uploading inDesign_WH_ASSEMBLAdd1c3d3e2e4ec302ea0a4c1dd26e126dd86af0f5249656c8b4473a862c5ecf74.png…]()
+![inDesign_WH_ASSEMBLAdd1c3d3e2e4ec302ea0a4c1dd26e126dd86af0f5249656c8b4473a862c5ecf74](https://user-images.githubusercontent.com/20936398/231211637-18616519-3c51-49bd-99b6-8975e3c771fa.png)
 
 ## CI/CD Hooks Now in Assembla
 
